@@ -14,7 +14,7 @@ My work sits at the intersection of engineering and applied research. I’ve con
 * 🚀  I'm currently working on [Brainstorm](http://neuroimage.usc.edu/brainstorm/Introduction)
 * 🧠  I'm currently learning AI and how it is transforming software development, research workflows, and scientific computing.
 * 👥  I'm looking to collaborate on Open-source tools, MATLAB or Python research software, neuroimaging and electrophysiology workflows, XR applications, medical simulation, and computer vision projects.
-* 💬  Ask me about Outside of work, I enjoy astrophotography and hiking
+* ⚡  Outside of work, I enjoy astrophotography and hiking
 
 ### Skills
 
