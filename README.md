@@ -9,7 +9,7 @@ I’m a software engineer and researcher building tools across open-source scien
 My work sits at the intersection of engineering and applied research. I’ve contributed to open-source SDKs for realistic hand interaction in VR, AR systems for natural face-to-face communication, brain visualization tools, and semi-automated intracranial electrode localization workflows. I enjoy building software that is technically strong, practical to use, and meaningful in research or clinical settings.
 
 * 🌍  I'm based in Los Angeles and San Jose (California, USA)
-* 🖥️  See my portfolio at [GitHub](http://github.com/chinmaychinara91)
+* 🖥️  See my [portfolio](https://chinmaychinara91.github.io/)
 * ✉️  You can contact me at [chinmay.chinara@gmail.com](mailto:chinmay.chinara@gmail.com)
 * 🚀  I'm currently working on [Brainstorm](http://neuroimage.usc.edu/brainstorm/Introduction)
 * 🧠  I'm currently learning how AI is transforming software development, research workflows, and scientific computing.
