@@ -11,7 +11,7 @@ My work sits at the intersection of engineering and applied research. I’ve con
 * 🌍  I'm based in Los Angeles and San Jose (California, USA)
 * 🖥️  See my [portfolio](https://chinmaychinara91.github.io/)
 * ✉️  You can contact me at [chinmay.chinara@gmail.com](mailto:chinmay.chinara@gmail.com)
-* 🚀  I'm currently working on [Brainstorm](http://neuroimage.usc.edu/brainstorm/Introduction)
+* 🚀  I'm currently working on **Brainstorm** [[Project page](http://neuroimage.usc.edu/brainstorm/Introduction)] [[Code](https://github.com/brainstorm-tools/brainstorm3)]
 * 🧠  I'm currently learning how AI is transforming software development, research workflows, and scientific computing.
 * 👥  I'm looking to collaborate on Open-source tools, MATLAB or Python research software, neuroimaging and electrophysiology workflows, XR applications, medical simulation, and computer vision projects.
 * ⚡  Outside of work, I enjoy [Photography](https://www.flickr.com/photos/193252914@N04/) and Hiking
